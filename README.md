@@ -1,1 +1,5 @@
-Api Musical FullStack com cadastro e login conectado ao um banco de dados. Adição de Artistas e Genêros somente pela role Administrador.........."
+Api FullStack com cadastros, login e registros(Artistas, Generos, Etc) conectado a um banco de dados Sqlite
+Criptografia com hash´s
+Certos métodos são exclusivos pra determinadas roles. 
+Utilização dos frameworks Asp.Net MVC e Entity Framework.
+
